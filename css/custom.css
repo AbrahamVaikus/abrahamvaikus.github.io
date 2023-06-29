@@ -28,6 +28,6 @@ h1 {font-size: inherit;}
 
   /* Reset the container */
 .container {
-    width: 480px;
-    max-width: none !important;
+    -width: 480px;
+    -max-width: none !important;
   }
